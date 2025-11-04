@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300" role="img" aria-label="Equipe do Instituto">
+  <rect width="800" height="300" fill="#e9f6f2"/>
+  <g fill="#2a9d8f">
+    <circle cx="120" cy="120" r="40"/>
+    <circle cx="260" cy="120" r="40"/>
+    <circle cx="400" cy="120" r="40"/>
+    <circle cx="540" cy="120" r="40"/>
+  </g>
+  <text x="50" y="260" font-family="Arial" font-size="20" fill="#12343b">Voluntários em ação — Instituto Raiz da Esperança</text>
+</svg>
