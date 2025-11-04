@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Instituto Raiz da Esperança — Site (Entrega I)
 
 Projeto estático com HTML5 semântico, formulários e assets para a entrega I da disciplina.
@@ -22,3 +23,6 @@ Projeto estático com HTML5 semântico, formulários e assets para a entrega I d
 Os arquivos foram construídos para preservar semântica e boas práticas. Recomenda-se que você valide no https://validator.w3.org/ quando adaptar textos ou alterar tags.
 
 Boa sorte! — Matheus, se quiser eu já subo instruções de commit prontas.
+=======
+# ong_raiz_esperanca
+>>>>>>> 33382553ededcb73a313b1fa8b95357049465b2c
