@@ -20,6 +20,29 @@ Desenvolver uma **plataforma digital profissional** para auxiliar ONGs a gerenci
 
 ---
 
+## 🧭 Estrutura de Pastas
+
+ong_raiz_esperanca/
+│
+├── index.html
+├── projetos.html
+├── cadastro.html
+│
+├── css/
+│ └── style.css
+│
+├── js/
+│ └── masks.js
+│
+├── imagens/
+│ ├── logo.svg
+│ ├── voluntariado.svg
+│ └── doacao.svg
+│
+└── README.md
+
+---
+
 ## 🧱 Estrutura do Projeto
 
 O site é composto por **três páginas principais**, todas responsivas e com semântica HTML5 bem definida.
